@@ -533,6 +533,6 @@ function hmrAcceptRun(bundle, id) {
 
 },{}],"j4kuM":[function(require,module,exports) {
 
-},{}]},["c4xoB","j4kuM"], "j4kuM", "parcelRequire9ed0")
+},{}]},["c4xoB","j4kuM"], "j4kuM", "parcelRequirea579")
 
 //# sourceMappingURL=sugar.3464ddca.js.map

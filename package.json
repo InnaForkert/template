@@ -1,21 +1,21 @@
 {
-  "name": "sugar",
+  "name": "template",
   "version": "1.0.0",
-  "description": "sugar game",
+  "description": "template",
   "scripts": {
     "test": "test",
     "start": "parcel index.html"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/InnaForkert/sugar.git"
+    "url": "git+https://github.com/InnaForkert/template.git"
   },
   "author": "Inna Forkert",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/InnaForkert/sugar/issues"
+    "url": "https://github.com/InnaForkert/template/issues"
   },
-  "homepage": "https://github.com/InnaForkert/sugar#readme",
+  "homepage": "https://github.com/InnaForkert/template#readme",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.7.0",
     "parcel": "^2.7.0"
